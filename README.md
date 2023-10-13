@@ -6,5 +6,7 @@ Juan Carlos Perez Ramirez,
 Victor Alan Lara Sanchez,
 Jaime Alejandro Romero Sierra.
 
+El dataset está comprimido en el archivo metro.rar por su gran tamaño
+
 Dar click en la imagen para ver el video
 [![Alt text](https://img.youtube.com/vi/ydFAcVUl56E/0.jpg)](https://www.youtube.com/watch?v=ydFAcVUl56E)
